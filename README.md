@@ -1,3 +1,5 @@
+Tags: C++, DSA, Algorithms
+
 First_non_repeating_character.cpp:
 Uses a very simple approach- 
   Count frequency using hashmap
